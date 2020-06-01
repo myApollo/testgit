@@ -1,0 +1,4 @@
+Comme vous pouvez le constater, 
+
+git permet à plusieurs utilisateurs comme des collègues par exemple 
+de travailler ensemble sur un même projet.
