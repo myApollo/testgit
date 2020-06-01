@@ -1,3 +1,5 @@
 Bonjour à tous.
 il ne manque plus rien
 Aujourd'hui nous allons voir comment travailler avec git.
+
+A bientot pour une prochaine vidéo
